@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-	background-color:rgb(246, 152, 255);
+	background-color:rgba(246, 152, 255, 0.555);
 	width:300px;
 	height:300px;
 	overflow:scroll;
@@ -25,4 +25,9 @@ body {
 
 h2 {
 	text-aling:center
+}
+
+.image_container img {
+	width: 50px;
+	height: auto;
 }
